@@ -4,9 +4,6 @@
 I'm a data scientist from India, and Python's my language of choice. \
 I'm a big fan of ML projects and always up for collaborating on cool ideas.
 
-- **Portfolio**: [My Portfolio](https://rohanpatnaik.github.io)
-- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/rohan-patnaik-88929b159/)
-
 ---
 
 ## 🛠 Tech Stack
