@@ -1,12 +1,8 @@
-<!--
-**YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME** is a special repository name 
-that GitHub uses to identify your personal profile README.
--->
 
 # Hi there, I'm Rohan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-I'm a Data Scientist from India. I like working primarily with Python.  
-I love working on ML projects and I'm always open to collaborating on interesting ideas.
+I'm a data scientist from India, and Python's my language of choice.
+I'm a big fan of ML projects and always up for collaborating on cool ideas.
 
 - **Portfolio**: [My Portfolio](https://rohanpatnaik.github.io)
 - **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/rohan-patnaik-88929b159/)
