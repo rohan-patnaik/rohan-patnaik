@@ -1,7 +1,7 @@
 
 # Hi there, I'm Rohan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-I'm a data scientist from India, and Python's my language of choice.
+I'm a data scientist from India, and Python's my language of choice. \
 I'm a big fan of ML projects and always up for collaborating on cool ideas.
 
 - **Portfolio**: [My Portfolio](https://rohanpatnaik.github.io)
