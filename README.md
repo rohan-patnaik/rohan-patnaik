@@ -13,7 +13,7 @@ Connect with me via [here!](https://rohan-patnaik.github.io/#contact)
 ## Current Projects
 
 - 📘 [Paperloop](https://skill-deploy-9iau733xr5-codex-agent-deploys.vercel.app) : Minecraft-themed mini world to explore landmark AI papers from Ilya Sutskever’s reading list.
-- 📄 [ZenPDF](https://skill-deploy-0brhd1ir9e-codex-agent-deploys.vercel.app) : Clean, open-source PDF workbench with practical tools and transparent usage limits.
+- 📄 [ZenPDF](https://thezenpdf.vercel.app) : Clean, open-source PDF workbench with practical tools and transparent usage limits.
 - 🖥️ [gogcli-plus](https://github.com/rohan-patnaik/gogcli-plus) : gogcli extension that adds Drive reporting, local↔Drive sync, and contacts deduplication workflows.
 
 ### 🛠 Tech Stack
