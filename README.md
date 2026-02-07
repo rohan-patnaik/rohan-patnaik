@@ -10,20 +10,20 @@ Connect with me via [here!](https://rohan-patnaik.github.io/#contact)
 
 ---
 
-### Projects of mine
+## Current Projects
 
 - 📘 [Paperloop](https://skill-deploy-9iau733xr5-codex-agent-deploys.vercel.app) : Minecraft-themed mini world to explore landmark AI papers from Ilya Sutskever’s reading list.
-- 📄 [ZenPDF](https://zenpdf4.vercel.app) : Clean, open-source PDF workbench with practical tools and transparent usage limits.
+- 📄 [ZenPDF](https://skill-deploy-0brhd1ir9e-codex-agent-deploys.vercel.app) : Clean, open-source PDF workbench with practical tools and transparent usage limits.
 
 ### 🛠 Tech Stack
 
 Some of the tools and tech I’ve been working with recently:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111111?style=flat)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=amazon-dynamodb&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Kubeflow Pipelines](https://img.shields.io/badge/Kubeflow%20Pipelines-4285F4?style=flat&logo=kubeflow&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
