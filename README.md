@@ -10,7 +10,7 @@ Connect with me via [here!](https://rohan-patnaik.github.io/#contact)
 
 ### Projects of mine
 
-- [Paperloop](https://skill-deploy-9iau733xr5-codex-agent-deploys.vercel.app): A Minecraft-themed interactive reading world for exploring landmark AI papers from Ilya Sutskever's reading list.
+- [Paperloop](https://skill-deploy-9iau733xr5-codex-agent-deploys.vercel.app) : Minecraft-themed mini world to explore landmark AI papers from Ilya Sutskever’s reading list.
 
 ### 🛠 Tech Stack
 
