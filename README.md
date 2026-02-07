@@ -8,9 +8,12 @@ I'm a big fan of ML projects and always up for collaborating on cool ideas.
 
 Connect with me via [here!](https://rohan-patnaik.github.io/#contact)
 
+---
+
 ### Projects of mine
 
 - 📘 [Paperloop](https://skill-deploy-9iau733xr5-codex-agent-deploys.vercel.app) : Minecraft-themed mini world to explore landmark AI papers from Ilya Sutskever’s reading list.
+- 📄 [ZenPDF](https://zenpdf4.vercel.app) : Clean, open-source PDF workbench with practical tools and transparent usage limits.
 
 ### 🛠 Tech Stack
 
