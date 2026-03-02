@@ -1,13 +1,13 @@
 ### Hi there, I'm Rohan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 
 <blockquote>
-I'm a data scientist from India, and Python's my language of choice.<br>
+I'm a ML engineer from India, and Python's my language of choice.<br>
 I'm a big fan of ML projects and always up for collaborating on cool ideas.
 </blockquote>
 
 [Portfolio](https://rohan-patnaik.github.io)&nbsp;&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/rohan-patnaik-88929b159)
 
-Connect with me via [here!](https://rohan-patnaik.github.io/#contact)
+Connect with me -> [here!](https://rohan-patnaik.github.io/#contact)
 
 ---
 
@@ -18,6 +18,7 @@ Connect with me via [here!](https://rohan-patnaik.github.io/#contact)
 - 🖥️ [gogcli-plus](https://github.com/rohan-patnaik/gogcli-plus) : gogcli extension that adds Drive reporting, local↔Drive sync, and contacts deduplication workflows.
 - 📅 [OpenCalendly](https://opencalendly.com) : Open-source scheduling platform for one-on-one and team bookings with calendar sync.
 
+---
 ### 🛠 Tech Stack
 
 Some of the tools and tech I’ve been working with recently:
