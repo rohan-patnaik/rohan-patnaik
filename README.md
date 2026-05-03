@@ -17,7 +17,7 @@ Connect with me -> [here!](https://rohan-patnaik.github.io/#contact)
 - 📄 [ZenPDF](https://thezenpdf.vercel.app) : Clean, open-source PDF workbench with practical tools and transparent usage limits.
 - 🖥️ [gogcli-plus](https://github.com/rohan-patnaik/gogcli-plus) : gogcli extension that adds Drive reporting, local↔Drive sync, and contacts deduplication workflows.
 - 📅 [OpenCalendly](https://opencalendly.com) : Open-source scheduling platform for one-on-one and team bookings with calendar sync.
-- 🧑‍🚀 [Pasture Imposters](https://github.com/rohan-patnaik/pasture-imposters) : Farm-themed social deduction game with quick multiplayer dev tests.
+- 🧑‍🚀 [Pasture Imposters](https://pasture-imposters-web.pages.dev) : Pokemon farmlands style among us games with custom avatars
 
 ---
 ### 🛠 Tech Stack
