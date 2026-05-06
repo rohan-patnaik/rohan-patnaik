@@ -19,7 +19,14 @@ Connect with me -> [here!](https://rohan-patnaik.github.io/#contact)
 - 📅 [OpenCalendly](https://opencalendly.com) : Open-source scheduling platform for one-on-one and team bookings with calendar sync.
 - ඞ [Pasture Imposters](https://pasture-imposters-web.pages.dev) : Pokemon farmstyle AmongUs game with custom avatars.
 
----
+## Open Source Contributions
+
+### 🦞 [openclaw/gogcli](https://github.com/openclaw/gogcli)
+
+- [PR #116](https://github.com/openclaw/gogcli/pull/116) - Original broad contribution that introduced Drive reporting, Drive sync, and contacts dedupe work. This was later superseded by smaller maintainer-led PRs so the safer pieces could land cleanly.
+- [PR #554](https://github.com/openclaw/gogcli/pull/554) - Added Drive reporting commands for tree views, folder size summaries, and inventory-style Drive inspection. Merged with co-authorship credit.
+- [PR #555](https://github.com/openclaw/gogcli/pull/555) - Added contacts dedupe preview support for finding likely duplicate Google Contacts without applying destructive changes. Merged with co-authorship credit.
+
 ### 🛠 Tech Stack
 
 Some of the tools and tech I’ve been working with recently:
