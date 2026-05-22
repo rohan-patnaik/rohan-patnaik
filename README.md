@@ -27,6 +27,10 @@ Connect with me -> [here!](https://rohan-patnaik.github.io/#contact)
 - [PR #555](https://github.com/openclaw/gogcli/pull/555) - Added contacts dedupe support for finding  duplicate Google Contacts without deleting changes. Co-authored credit given.
 - [PR #116](https://github.com/openclaw/gogcli/pull/116) - Original broad contribution that introduced Drive reporting, Drive sync, and contacts dedupe work. Later superseded into smaller maintainer-led PRs(#554 & #555).
 
+### 🦖 [facebook/docusaurus](https://github.com/facebook/docusaurus)
+
+- [PR #12054](https://github.com/facebook/docusaurus/pull/12054) - Fixed localized site config URLs so Docusaurus sites using separate locale domains generate the correct locale-aware metadata and sitemap URLs. Merged.
+
 ### 🛠 Tech Stack
 
 Some of the tools and tech I’ve been working with recently:
