@@ -31,6 +31,10 @@ Connect with me -> [here!](https://rohan-patnaik.github.io/#contact)
 
 - [PR #12054](https://github.com/facebook/docusaurus/pull/12054) - Fixed localized site config URLs so Docusaurus sites using separate locale domains generate the correct locale-aware metadata and sitemap URLs. Merged.
 
+### ⚛️ [facebook/lexical](https://github.com/facebook/lexical)
+
+- [PR #8541](https://github.com/facebook/lexical/pull/8541) - Added markdown round-trip coverage for bold-italic formatting. Merged.
+
 ### 🛠 Tech Stack
 
 Some of the tools and tech I’ve been working with recently:
