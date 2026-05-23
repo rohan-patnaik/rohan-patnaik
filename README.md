@@ -31,7 +31,7 @@ Connect with me -> [here!](https://rohan-patnaik.github.io/#contact)
 
 - [PR #12054](https://github.com/facebook/docusaurus/pull/12054) - Fixed localized site config URLs so Docusaurus sites using separate locale domains generate the correct locale-aware metadata and sitemap URLs. Merged.
 
-### <img src="./assets/lexical-icon.svg" width="28" height="28" align="absmiddle"> [facebook/lexical](https://lexical.dev/)
+### <img src="https://github.com/facebook.png?size=32" width="24" height="24" align="absmiddle"> [facebook/lexical](https://lexical.dev/)
 
 - [PR #8541](https://github.com/facebook/lexical/pull/8541) - Added markdown round-trip coverage for bold-italic formatting. Merged.
 
