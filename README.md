@@ -21,17 +21,17 @@ Connect with me -> [here!](https://rohan-patnaik.github.io/#contact)
 
 ## Open Source Contributions
 
-### 🦞 [openclaw/gogcli](https://gogcli.sh) ([GitHub](https://github.com/openclaw/gogcli))
+### 🦞 [openclaw/gogcli](https://gogcli.sh)
 
 - [PR #554](https://github.com/openclaw/gogcli/pull/554) - Added Drive reporting commands for tree views, folder size summaries, and Drive inspection. Co-authored credit given.
 - [PR #555](https://github.com/openclaw/gogcli/pull/555) - Added contacts dedupe support for finding  duplicate Google Contacts without deleting changes. Co-authored credit given.
 - [PR #116](https://github.com/openclaw/gogcli/pull/116) - Original broad contribution that introduced Drive reporting, Drive sync, and contacts dedupe work. Later superseded into smaller maintainer-led PRs(#554 & #555).
 
-### <img src="https://docusaurus.io/img/docusaurus.svg" width="22" height="22" align="absmiddle"> [facebook/docusaurus](https://docusaurus.io/) ([GitHub](https://github.com/facebook/docusaurus))
+### <img src="https://docusaurus.io/img/docusaurus.svg" width="22" height="22" align="absmiddle"> [facebook/docusaurus](https://docusaurus.io/)
 
 - [PR #12054](https://github.com/facebook/docusaurus/pull/12054) - Fixed localized site config URLs so Docusaurus sites using separate locale domains generate the correct locale-aware metadata and sitemap URLs. Merged.
 
-### <img src="https://lexical.dev/img/logo.svg" width="22" height="22" align="absmiddle"> [facebook/lexical](https://lexical.dev/) ([GitHub](https://github.com/facebook/lexical))
+### <img src="./assets/lexical-logo.svg" width="96" align="absmiddle"> [facebook/lexical](https://lexical.dev/)
 
 - [PR #8541](https://github.com/facebook/lexical/pull/8541) - Added markdown round-trip coverage for bold-italic formatting. Merged.
 
