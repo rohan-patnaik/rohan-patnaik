@@ -1,7 +1,7 @@
 ### Hi there, I'm Rohan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 
 <blockquote>
-I'm a ML engineer from India, and Python's my language of choice.<br>
+I'm a ML engineer from India, and Python/Go are my languages of choice.<br>
 I'm a big fan of ML projects and always up for collaborating on cool ideas.
 </blockquote>
 
