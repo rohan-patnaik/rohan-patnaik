@@ -23,18 +23,18 @@ Connect with me -> [here!](https://rohan-patnaik.github.io/#contact)
 
 ### 🦞 [openclaw/gogcli](https://gogcli.sh)
 
-- [PR #554](https://github.com/openclaw/gogcli/pull/554) - Added Drive reporting commands for tree views, folder size summaries, and Drive inspection. Co-authored credit given.
-- [PR #555](https://github.com/openclaw/gogcli/pull/555) - Added contacts dedupe support for finding  duplicate Google Contacts without deleting changes. Co-authored credit given.
-- [PR #116](https://github.com/openclaw/gogcli/pull/116) - Original broad contribution that introduced Drive reporting, Drive sync, and contacts dedupe work. Later superseded into smaller maintainer-led PRs(#554 & #555).
+- [PR #554](https://github.com/openclaw/gogcli/pull/554) - Added Drive reporting commands for tree views, folder summaries, and Drive inspection.
+- [PR #555](https://github.com/openclaw/gogcli/pull/555) - Added Google Contacts dedupe support for safely finding duplicate contacts.
+- [PR #116](https://github.com/openclaw/gogcli/pull/116) - Introduced the original Drive reporting, Drive sync, and contacts dedupe contribution.
 
 ### <img src="https://docusaurus.io/img/docusaurus.svg" width="22" height="22" align="absmiddle"> [facebook/docusaurus](https://docusaurus.io/)
 
-- [PR #12054](https://github.com/facebook/docusaurus/pull/12054) - Fixed localized site config URLs so Docusaurus sites using separate locale domains generate the correct locale-aware metadata and sitemap URLs. Merged.
+- [PR #12054](https://github.com/facebook/docusaurus/pull/12054) - Fixed locale-aware site config URLs for metadata and sitemap generation.
 
 ### <img src="https://github.com/facebook.png?size=32" width="24" height="24" align="absmiddle"> [facebook/lexical](https://lexical.dev/)
 
-- [PR #8541](https://github.com/facebook/lexical/pull/8541) - Added markdown round-trip coverage for bold-italic formatting. Merged.
-- [PR #8539](https://github.com/facebook/lexical/pull/8539) - Fixed collapsible content normalization for empty content and inline children. Merged.
+- [PR #8541](https://github.com/facebook/lexical/pull/8541) - Added markdown round-trip coverage for bold-italic formatting.
+- [PR #8539](https://github.com/facebook/lexical/pull/8539) - Fixed collapsible content normalization for empty content and inline children.
 
 ### 🛠 Tech Stack
 
