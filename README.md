@@ -34,6 +34,7 @@ Connect with me -> [here!](https://rohan-patnaik.github.io/#contact)
 ### <img src="https://github.com/facebook.png?size=32" width="24" height="24" align="absmiddle"> [facebook/lexical](https://lexical.dev/)
 
 - [PR #8541](https://github.com/facebook/lexical/pull/8541) - Added markdown round-trip coverage for bold-italic formatting. Merged.
+- [PR #8539](https://github.com/facebook/lexical/pull/8539) - Fixed collapsible content normalization for empty content and inline children. Merged.
 
 ### 🛠 Tech Stack
 
