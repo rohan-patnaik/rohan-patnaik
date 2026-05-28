@@ -21,6 +21,10 @@ Connect with me -> [here!](https://rohan-patnaik.github.io/#contact)
 
 ## Open Source Contributions
 
+### <img src="https://github.com/google.png?size=32" width="24" height="24" align="absmiddle"> [google/osv-scanner](https://github.com/google/osv-scanner)
+
+- [PR #2808](https://github.com/google/osv-scanner/pull/2808) - Deduplicated equivalent OSV bulk vulnerability queries while preserving scanner result ordering.
+
 ### 🦞 [openclaw/gogcli](https://gogcli.sh)
 
 - [PR #554](https://github.com/openclaw/gogcli/pull/554) - Added Drive reporting commands for tree views, folder summaries, and Drive inspection.
