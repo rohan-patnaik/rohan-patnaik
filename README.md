@@ -25,24 +25,24 @@ Connect with me -> [here!](https://rohan-patnaik.github.io/#contact)
 
 - [PR #2314](https://github.com/google/go-containerregistry/pull/2314) - Anchored loopback registry scheme detection so only real loopback hosts use HTTP.
 
-### <img src="https://github.com/google.png?size=32" width="24" height="24" align="absmiddle"> [google/osv-scanner](https://github.com/google/osv-scanner)
-
-- [PR #2808](https://github.com/google/osv-scanner/pull/2808) - Deduplicated equivalent OSV bulk vulnerability queries while preserving scanner result ordering.
-
 ### 🦞 [openclaw/gogcli](https://gogcli.sh)
 
 - [PR #554](https://github.com/openclaw/gogcli/pull/554) - Added Drive reporting commands for tree views, folder summaries, and Drive inspection.
 - [PR #555](https://github.com/openclaw/gogcli/pull/555) - Added Google Contacts dedupe support for safely finding duplicate contacts.
 - [PR #116](https://github.com/openclaw/gogcli/pull/116) - Introduced the original Drive reporting, Drive sync, and contacts dedupe contribution.
 
-### <img src="https://docusaurus.io/img/docusaurus.svg" width="22" height="22" align="absmiddle"> [facebook/docusaurus](https://docusaurus.io/)
-
-- [PR #12054](https://github.com/facebook/docusaurus/pull/12054) - Fixed locale-aware site config URLs for metadata and sitemap generation.
-
 ### <img src="https://github.com/facebook.png?size=32" width="24" height="24" align="absmiddle"> [facebook/lexical](https://lexical.dev/)
 
 - [PR #8541](https://github.com/facebook/lexical/pull/8541) - Added markdown round-trip coverage for bold-italic formatting.
 - [PR #8539](https://github.com/facebook/lexical/pull/8539) - Fixed collapsible content normalization for empty content and inline children.
+
+### <img src="https://github.com/google.png?size=32" width="24" height="24" align="absmiddle"> [google/osv-scanner](https://github.com/google/osv-scanner)
+
+- [PR #2808](https://github.com/google/osv-scanner/pull/2808) - Deduplicated equivalent OSV bulk vulnerability queries while preserving scanner result ordering.
+
+### <img src="https://docusaurus.io/img/docusaurus.svg" width="22" height="22" align="absmiddle"> [facebook/docusaurus](https://docusaurus.io/)
+
+- [PR #12054](https://github.com/facebook/docusaurus/pull/12054) - Fixed locale-aware site config URLs for metadata and sitemap generation.
 
 ### 🛠 Tech Stack
 
