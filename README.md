@@ -21,6 +21,10 @@ Connect with me -> [here!](https://rohan-patnaik.github.io/#contact)
 
 ## Open Source Contributions
 
+### <img src="https://github.com/google.png?size=32" width="24" height="24" align="absmiddle"> [google/go-containerregistry](https://github.com/google/go-containerregistry)
+
+- [PR #2314](https://github.com/google/go-containerregistry/pull/2314) - Anchored loopback registry scheme detection so only real loopback hosts use HTTP.
+
 ### <img src="https://github.com/google.png?size=32" width="24" height="24" align="absmiddle"> [google/osv-scanner](https://github.com/google/osv-scanner)
 
 - [PR #2808](https://github.com/google/osv-scanner/pull/2808) - Deduplicated equivalent OSV bulk vulnerability queries while preserving scanner result ordering.
