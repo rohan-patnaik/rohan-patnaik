@@ -24,6 +24,8 @@ Connect with me -> [here!](https://rohan-patnaik.github.io/#contact)
 ### <img src="https://github.com/google.png?size=32" width="24" height="24" align="absmiddle"> [google/go-containerregistry](https://github.com/google/go-containerregistry)
 
 - [PR #2314](https://github.com/google/go-containerregistry/pull/2314) - Anchored loopback registry scheme detection so only real loopback hosts use HTTP.
+- [PR #2315](https://github.com/google/go-containerregistry/pull/2315) - Added a Kubernetes keychain option to ignore pull secrets for push-only auth workflows.
+- [PR #2316](https://github.com/google/go-containerregistry/pull/2316) - Preserved `localhost/...` image references as explicit local registry references.
 
 ### 🦞 [openclaw/gogcli](https://gogcli.sh)
 
