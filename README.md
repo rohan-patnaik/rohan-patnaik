@@ -9,6 +9,8 @@ I'm a big fan of ML projects and always up for collaborating on cool ideas.
 
 Connect with me -> [here!](https://rohan-patnaik.github.io/#contact)
 
+Follow along for the open-source and AI work I'm part of.
+
 ---
 
 ## Current Projects
@@ -20,6 +22,10 @@ Connect with me -> [here!](https://rohan-patnaik.github.io/#contact)
 - ඞ [Pasture Imposters](https://pasture-imposters-web.pages.dev) : Pokemon farmstyle AmongUs game with custom avatars.
 
 ## Open Source Contributions
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="24" height="24" align="absmiddle" alt="Go"> [google/cel-go](https://github.com/google/cel-go)
+
+- [PR #1327](https://github.com/google/cel-go/pull/1327) - Allowed `containers.Alias` to target simple names while preserving stricter `Abbrevs` validation.
 
 ### <img src="https://github.com/google.png?size=32" width="24" height="24" align="absmiddle"> [google/go-containerregistry](https://github.com/google/go-containerregistry)
 
