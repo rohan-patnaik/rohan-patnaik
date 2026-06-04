@@ -9,7 +9,7 @@ I'm a big fan of ML projects and always up for collaborating on cool ideas.
 
 Connect with me -> [here!](https://rohan-patnaik.github.io/#contact)
 
-Follow along for the open-source and AI work I'm part of.
+Thanks for visiting here. Follow for more open-source and AI work I'm part of.
 
 ---
 
@@ -22,10 +22,6 @@ Follow along for the open-source and AI work I'm part of.
 - ඞ [Pasture Imposters](https://pasture-imposters-web.pages.dev) : Pokemon farmstyle AmongUs game with custom avatars.
 
 ## Open Source Contributions
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="24" height="24" align="absmiddle" alt="Go"> [google/cel-go](https://github.com/google/cel-go)
-
-- [PR #1327](https://github.com/google/cel-go/pull/1327) - Allowed `containers.Alias` to target simple names while preserving stricter `Abbrevs` validation.
 
 ### <img src="https://github.com/google.png?size=32" width="24" height="24" align="absmiddle"> [google/go-containerregistry](https://github.com/google/go-containerregistry)
 
@@ -51,6 +47,10 @@ Follow along for the open-source and AI work I'm part of.
 ### <img src="https://docusaurus.io/img/docusaurus.svg" width="22" height="22" align="absmiddle"> [facebook/docusaurus](https://docusaurus.io/)
 
 - [PR #12054](https://github.com/facebook/docusaurus/pull/12054) - Fixed locale-aware site config URLs for metadata and sitemap generation.
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="24" height="24" align="absmiddle" alt="Go"> [google/cel-go](https://github.com/google/cel-go)
+
+- [PR #1327](https://github.com/google/cel-go/pull/1327) - Allowed `containers.Alias` to target simple names while preserving stricter `Abbrevs` validation.
 
 ### 🛠 Tech Stack
 
