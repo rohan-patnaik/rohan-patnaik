@@ -35,6 +35,10 @@ Thanks for visiting here. Follow for more open-source and AI work I'm part of.
 - [PR #555](https://github.com/openclaw/gogcli/pull/555) - Added Google Contacts dedupe support for safely finding duplicate contacts.
 - [PR #116](https://github.com/openclaw/gogcli/pull/116) - Introduced the original Drive reporting, Drive sync, and contacts dedupe contribution.
 
+### <img src="https://github.com/microsoft.png?size=32" width="24" height="24" align="absmiddle"> [microsoft/playwright-python](https://playwright.dev/python/)
+
+- [PR #3084](https://github.com/microsoft/playwright-python/pull/3084) - Fixed handler wrapping so keyword-only parameters are not counted as positional handler arguments.
+
 ### <img src="https://github.com/facebook.png?size=32" width="24" height="24" align="absmiddle"> [facebook/lexical](https://lexical.dev/)
 
 - [PR #8541](https://github.com/facebook/lexical/pull/8541) - Added markdown round-trip coverage for bold-italic formatting.
