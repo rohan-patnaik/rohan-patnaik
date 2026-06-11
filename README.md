@@ -48,6 +48,10 @@ Thanks for visiting here. Follow for more open-source and AI work I'm part of.
 
 - [PR #2808](https://github.com/google/osv-scanner/pull/2808) - Deduplicated equivalent OSV bulk vulnerability queries while preserving scanner result ordering.
 
+### <img src="https://github.com/grafana.png?size=32" width="24" height="24" align="absmiddle"> [grafana/k6](https://github.com/grafana/k6)
+
+- [PR #6002](https://github.com/grafana/k6/pull/6002) - Added `selection.single(selector)` to `k6/html` selections.
+
 ### <img src="https://docusaurus.io/img/docusaurus.svg" width="22" height="22" align="absmiddle"> [facebook/docusaurus](https://docusaurus.io/)
 
 - [PR #12054](https://github.com/facebook/docusaurus/pull/12054) - Fixed locale-aware site config URLs for metadata and sitemap generation.
