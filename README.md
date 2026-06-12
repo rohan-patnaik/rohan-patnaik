@@ -23,40 +23,40 @@ Thanks for visiting here. Follow for more open-source and AI work I'm part of.
 
 ## Open Source Contributions
 
-### <img src="https://github.com/google.png?size=32" width="24" height="24" align="absmiddle"> [google/go-containerregistry](https://github.com/google/go-containerregistry)
+### <img src="https://github.com/google.png?size=32" width="24" height="24" align="absmiddle"> [google/go-containerregistry](https://github.com/google/go-containerregistry) (3.9k stars)
 
 - [PR #2314](https://github.com/google/go-containerregistry/pull/2314) - Anchored loopback registry scheme detection so only real loopback hosts use HTTP.
 - [PR #2315](https://github.com/google/go-containerregistry/pull/2315) - Added a Kubernetes keychain option to ignore pull secrets for push-only auth workflows.
 - [PR #2316](https://github.com/google/go-containerregistry/pull/2316) - Preserved `localhost/...` image references as explicit local registry references.
 
-### 🦞 [openclaw/gogcli](https://gogcli.sh)
+### 🦞 [openclaw/gogcli](https://gogcli.sh) (7.7k stars)
 
 - [PR #554](https://github.com/openclaw/gogcli/pull/554) - Added Drive reporting commands for tree views, folder summaries, and Drive inspection.
 - [PR #555](https://github.com/openclaw/gogcli/pull/555) - Added Google Contacts dedupe support for safely finding duplicate contacts.
 - [PR #116](https://github.com/openclaw/gogcli/pull/116) - Introduced the original Drive reporting, Drive sync, and contacts dedupe contribution.
 
-### <img src="https://github.com/microsoft.png?size=32" width="24" height="24" align="absmiddle"> [microsoft/playwright-python](https://playwright.dev/python/)
+### <img src="https://github.com/microsoft.png?size=32" width="24" height="24" align="absmiddle"> [microsoft/playwright-python](https://playwright.dev/python/) (14.7k stars)
 
 - [PR #3084](https://github.com/microsoft/playwright-python/pull/3084) - Fixed handler wrapping so keyword-only parameters are not counted as positional handler arguments.
 
-### <img src="https://github.com/facebook.png?size=32" width="24" height="24" align="absmiddle"> [facebook/lexical](https://lexical.dev/)
+### <img src="https://github.com/facebook.png?size=32" width="24" height="24" align="absmiddle"> [facebook/lexical](https://lexical.dev/) (23.5k stars)
 
 - [PR #8541](https://github.com/facebook/lexical/pull/8541) - Added markdown round-trip coverage for bold-italic formatting.
 - [PR #8539](https://github.com/facebook/lexical/pull/8539) - Fixed collapsible content normalization for empty content and inline children.
 
-### <img src="https://github.com/google.png?size=32" width="24" height="24" align="absmiddle"> [google/osv-scanner](https://github.com/google/osv-scanner)
+### <img src="https://github.com/google.png?size=32" width="24" height="24" align="absmiddle"> [google/osv-scanner](https://github.com/google/osv-scanner) (10.5k stars)
 
 - [PR #2808](https://github.com/google/osv-scanner/pull/2808) - Deduplicated equivalent OSV bulk vulnerability queries while preserving scanner result ordering.
 
-### <img src="https://github.com/grafana.png?size=32" width="24" height="24" align="absmiddle"> [grafana/k6](https://github.com/grafana/k6)
+### <img src="https://github.com/grafana.png?size=32" width="24" height="24" align="absmiddle"> [grafana/k6](https://github.com/grafana/k6) (30.8k stars)
 
 - [PR #6002](https://github.com/grafana/k6/pull/6002) - Added `selection.single(selector)` to `k6/html` selections.
 
-### <img src="https://docusaurus.io/img/docusaurus.svg" width="22" height="22" align="absmiddle"> [facebook/docusaurus](https://docusaurus.io/)
+### <img src="https://docusaurus.io/img/docusaurus.svg" width="22" height="22" align="absmiddle"> [facebook/docusaurus](https://docusaurus.io/) (65.2k stars)
 
 - [PR #12054](https://github.com/facebook/docusaurus/pull/12054) - Fixed locale-aware site config URLs for metadata and sitemap generation.
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="24" height="24" align="absmiddle" alt="Go"> [google/cel-go](https://github.com/google/cel-go)
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="24" height="24" align="absmiddle" alt="Go"> [google/cel-go](https://github.com/google/cel-go) (3k stars)
 
 - [PR #1327](https://github.com/google/cel-go/pull/1327) - Allowed `containers.Alias` to target simple names while preserving stricter `Abbrevs` validation.
 
