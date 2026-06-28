@@ -56,9 +56,10 @@ Thanks for visiting here. Follow for more open-source and AI work I'm part of.
 
 - [PR #12054](https://github.com/facebook/docusaurus/pull/12054) - Fixed locale-aware site config URLs for metadata and sitemap generation.
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="24" height="24" align="absmiddle" alt="Go"> [google/cel-go](https://github.com/google/cel-go) (3k stars)
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="24" height="24" align="absmiddle" alt="Go"> [cel-expr/cel-go](https://github.com/cel-expr/cel-go) (3k stars)
 
-- [PR #1327](https://github.com/google/cel-go/pull/1327) - Allowed `containers.Alias` to target simple names while preserving stricter `Abbrevs` validation.
+- [PR #1340](https://github.com/cel-expr/cel-go/pull/1340) - Added `json.encode(dyn)` to CEL extension encoders.
+- [PR #1327](https://github.com/cel-expr/cel-go/pull/1327) - Allowed `containers.Alias` to target simple names while preserving stricter `Abbrevs` validation.
 
 ### 🛠 Tech Stack
 
