@@ -50,7 +50,7 @@ Thanks for visiting here. Follow for more open-source and AI work I'm part of.
 
 ### <img src="https://github.com/grafana.png?size=32" width="24" height="24" align="absmiddle"> [grafana/k6](https://github.com/grafana/k6) (30.8k stars)
 
-- [PR #6002](https://github.com/grafana/k6/pull/6002) - Added `selection.single(selector)` to `k6/html` selections.
+- [PR #6002](https://github.com/grafana/k6/pull/6002) - Made HTML scripting more ergonomic by adding a direct way to select the first matching element.
 
 ### <img src="https://docusaurus.io/img/docusaurus.svg" width="22" height="22" align="absmiddle"> [facebook/docusaurus](https://docusaurus.io/) (65.2k stars)
 
@@ -58,8 +58,8 @@ Thanks for visiting here. Follow for more open-source and AI work I'm part of.
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="24" height="24" align="absmiddle" alt="Go"> [cel-expr/cel-go](https://github.com/cel-expr/cel-go) (3k stars)
 
-- [PR #1340](https://github.com/cel-expr/cel-go/pull/1340) - Added `json.encode(dyn)` to CEL extension encoders.
-- [PR #1327](https://github.com/cel-expr/cel-go/pull/1327) - Allowed `containers.Alias` to target simple names while preserving stricter `Abbrevs` validation.
+- [PR #1340](https://github.com/cel-expr/cel-go/pull/1340) - Helped CEL users serialize dynamic values to JSON through the standard extension library.
+- [PR #1327](https://github.com/cel-expr/cel-go/pull/1327) - Made explicit container aliases more flexible while keeping abbreviation validation strict.
 
 ### 🛠 Tech Stack
 
