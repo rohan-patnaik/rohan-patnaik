@@ -39,6 +39,10 @@ Thanks for visiting here. Follow for more open-source and AI work I'm part of.
 
 - [PR #3084](https://github.com/microsoft/playwright-python/pull/3084) - Fixed handler wrapping so keyword-only parameters are not counted as positional handler arguments.
 
+### <img src="https://github.com/Azure.png?size=32" width="24" height="24" align="absmiddle"> [Azure/azure-cli](https://github.com/Azure/azure-cli) (4.6k stars)
+
+- [PR #33429](https://github.com/Azure/azure-cli/pull/33429) - Made VM image listing fall back to bundled aliases when the remote alias document is invalid JSON.
+
 ### <img src="https://github.com/facebook.png?size=32" width="24" height="24" align="absmiddle"> [facebook/lexical](https://lexical.dev/) (23.5k stars)
 
 - [PR #8541](https://github.com/facebook/lexical/pull/8541) - Added markdown round-trip coverage for bold-italic formatting.
