@@ -54,6 +54,7 @@ Thanks for visiting here. Follow for more open-source and AI work I'm part of.
 
 ### <img src="https://github.com/grafana.png?size=32" width="24" height="24" align="absmiddle"> [grafana/k6](https://github.com/grafana/k6) (30.8k stars)
 
+- [PR #6070](https://github.com/grafana/k6/pull/6070) - Prevented recent console logs from being lost by periodically flushing buffered file logs during k6 runs.
 - [PR #6002](https://github.com/grafana/k6/pull/6002) - Made HTML scripting more ergonomic by adding a direct way to select the first matching element.
 
 ### <img src="https://docusaurus.io/img/docusaurus.svg" width="22" height="22" align="absmiddle"> [facebook/docusaurus](https://docusaurus.io/) (65.2k stars)
