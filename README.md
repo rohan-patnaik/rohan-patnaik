@@ -20,12 +20,9 @@ Thanks for visiting here. Follow for more open-source and AI work I'm part of.
 - <img src="assets/gogcli-plus-google-g.png" width="18" height="18" alt="Google G" align="absmiddle"> [gogcli-plus](https://github.com/rohan-patnaik/gogcli-plus) : gogcli extension that adds Drive reporting, local↔Drive sync, and contacts deduplication workflows.
 - 📘 [Paperloop](https://mypaperloop.vercel.app) : Minecraft-themed mini world to explore landmark AI papers from Ilya Sutskever’s reading list.
 - ඞ [Pasture Imposters](https://pasture-imposters-web.pages.dev) : Pokemon farmstyle AmongUs game with custom avatars.
-
-### Omarchy Apps & Plugins
-
-- 📑 [ZenPDF for Omarchy](https://omarchyplugins.com/plugin.html?id=io.github.rohan-patnaik.zenpdf) : An offline-first Acrobat alternative in development for Omarchy and Arch Linux.
+- Ⓩ [ZenPDF for Omarchy](https://omarchyplugins.com/plugin.html?id=io.github.rohan-patnaik.zenpdf) : An offline-first Acrobat alternative in development for Omarchy and Arch Linux.
 - 🃏 [Solitaire](https://omarchyplugins.com/plugin.html?id=io.github.rohan-patnaik.solitaire) : Five classic patience games in one offline, ad-free collection for Omarchy.
-- ⚛️ [Orbit](https://omarchyplugins.com/plugin.html?id=io.github.rohan-patnaik.window-switcher) : A visual Alt+Tab switcher with icon, angled-stack, and adaptive-grid modes.
+- ⟳ [Orbit](https://omarchyplugins.com/plugin.html?id=io.github.rohan-patnaik.window-switcher) : A visual Alt+Tab switcher with icon, angled-stack, and adaptive-grid modes.
 - 🎨 [Chromarchy](https://github.com/rohan-patnaik/Chromarchy) : A local-first Photoshop alternative in development for Omarchy and Arch Linux.
 
 ## Open Source Contributions
