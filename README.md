@@ -22,7 +22,7 @@ Thanks for visiting here. Follow for more open-source and AI work I'm part of.
 - ඞ [Pasture Imposters](https://pasture-imposters-web.pages.dev) : Pokemon farmstyle AmongUs game with custom avatars.
 - Ⓩ [ZenPDF for Omarchy](https://omarchyplugins.com/plugin.html?id=io.github.rohan-patnaik.zenpdf) : An offline-first Acrobat alternative in development for Omarchy and Arch Linux.
 - 🃏 [Solitaire](https://omarchyplugins.com/plugin.html?id=io.github.rohan-patnaik.solitaire) : Five classic patience games in one offline, ad-free collection for Omarchy.
-- ◉ [Orbit](https://omarchyplugins.com/plugin.html?id=io.github.rohan-patnaik.window-switcher) : A visual Alt+Tab switcher with icon, angled-stack, and adaptive-grid modes.
+- ◉ [Orbit](https://omarchyplugins.com/plugin.html?id=io.github.rohan-patnaik.window-switcher) : An Alt+Tab switcher with icons(like macos), angled-stack(like win7), and adaptive-grid modes((like win11) for Omarchy Linux.
 - 🎨 [Chromarchy](https://github.com/rohan-patnaik/Chromarchy) : A local-first Photoshop alternative in development for Omarchy and Arch Linux.
 
 ## Open Source Contributions
