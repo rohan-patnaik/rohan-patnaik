@@ -17,61 +17,63 @@ Thanks for visiting here. Follow for more open-source and AI work I'm part of.
 
 
 - <img src="assets/codebloom-logo.png" width="18" height="18" alt="Codebloom" align="absmiddle"> [Codebloom](https://github.com/rohan-patnaik/codebloom) : IDE extension that turns Python, Java and JavaScript files into mind maps with call arrows.
-- 📅 [OpenCalendly](https://opencalendly.com) : Open-source scheduling platform for one-on-one and team bookings with calendar sync.
+- 📅 [OpenCalendly](https://opencalendly.com) : Open-source Calendly: share a link, take 1:1 or team bookings, synced to your calendar.
 - 📄 [ZenPDF](https://thezenpdf.vercel.app) : Clean, open-source PDF workbench with practical tools and transparent usage limits.
-- <img src="assets/gogcli-plus-google-g.png" width="18" height="18" alt="Google G" align="absmiddle"> [gogcli-plus](https://github.com/rohan-patnaik/gogcli-plus) : gogcli extension that adds Drive reporting, local↔Drive sync, and contacts deduplication workflows.
-- 📘 [Paperloop](https://mypaperloop.vercel.app) : Minecraft-themed mini world to explore landmark AI papers from Ilya Sutskever’s reading list.
-- ඞ [Pasture Imposters](https://pasture-imposters-web.pages.dev) : Pokemon farmstyle AmongUs game with custom avatars.
-- Ⓩ [ZenPDF for Omarchy](https://omarchyplugins.com/plugin.html?id=io.github.rohan-patnaik.zenpdf) : An offline-first Acrobat alternative in development for Omarchy and Arch Linux.
-- 🃏 [Solitaire](https://omarchyplugins.com/plugin.html?id=io.github.rohan-patnaik.solitaire) : Five classic patience games in one offline, ad-free collection for Omarchy.
-- ◎ [Orbit](https://omarchyplugins.com/plugin.html?id=io.github.rohan-patnaik.window-switcher) : An Alt+Tab switcher with icons(like macos), angled-stack(like win7), and grid modes((like win11) for Omarchy Linux.
-- 🎨 [Chromarchy](https://github.com/rohan-patnaik/Chromarchy) : A local-first Photoshop alternative in development for Omarchy and Arch Linux.
+- <img src="assets/gogcli-plus-google-g.png" width="18" height="18" alt="Google G" align="absmiddle"> [gogcli-plus](https://github.com/rohan-patnaik/gogcli-plus) : Supercharge gogcli with Drive reports, local↔Drive sync and contact deduplication.
+- 📘 [Paperloop](https://mypaperloop.vercel.app) : Explore Ilya Sutskever’s must-read AI papers in a Minecraft-style mini world.
+- ඞ [Pasture Imposters](https://pasture-imposters-web.pages.dev) : Among Us on a Pokémon-style farm: make your avatar and catch the imposter.
+- Ⓩ [ZenPDF for Omarchy](https://omarchyplugins.com/plugin.html?id=io.github.rohan-patnaik.zenpdf) : An offline-first Acrobat alternative for Omarchy and Arch Linux, in the works.
+- 🃏 [Solitaire](https://omarchyplugins.com/plugin.html?id=io.github.rohan-patnaik.solitaire) : Five classic solitaire games, offline and ad-free, for Omarchy.
+- ◎ [Orbit](https://omarchyplugins.com/plugin.html?id=io.github.rohan-patnaik.window-switcher) : A better Alt+Tab for Omarchy: macOS icons, Windows 7 stacks or a Windows 11 grid.
+- 🎨 [Chromarchy](https://github.com/rohan-patnaik/Chromarchy) : A local-first Photoshop alternative for Omarchy and Arch Linux, in the works.
 
-## Open Source Contributions
+## Popular OSS work
 
-### <img src="https://github.com/google.png?size=32" width="24" height="24" align="absmiddle"> [google/go-containerregistry](https://github.com/google/go-containerregistry) (3.9k stars)
+*16 merged PRs across Meta, Google, Microsoft and Grafana projects (169k★ combined).*
 
-- [PR #2314](https://github.com/google/go-containerregistry/pull/2314) - Anchored loopback registry scheme detection so only real loopback hosts use HTTP.
-- [PR #2315](https://github.com/google/go-containerregistry/pull/2315) - Added a Kubernetes keychain option to ignore pull secrets for push-only auth workflows.
-- [PR #2316](https://github.com/google/go-containerregistry/pull/2316) - Preserved `localhost/...` image references as explicit local registry references.
+### <img src="https://docusaurus.io/img/docusaurus.svg" width="22" height="22" align="absmiddle"> [facebook/docusaurus](https://docusaurus.io/) (66k★)
 
-### 🦞 [openclaw/gogcli](https://gogcli.sh) (7.7k stars)
+- [PR #12054](https://github.com/facebook/docusaurus/pull/12054) - Fixed localized sites publishing wrong URLs in metadata and sitemaps.
 
-- [PR #554](https://github.com/openclaw/gogcli/pull/554) - Added Drive reporting commands for tree views, folder summaries, and Drive inspection.
-- [PR #555](https://github.com/openclaw/gogcli/pull/555) - Added Google Contacts dedupe support for safely finding duplicate contacts.
+### <img src="https://github.com/grafana.png?size=32" width="24" height="24" align="absmiddle"> [grafana/k6](https://github.com/grafana/k6) (32k★)
+
+- [PR #6071](https://github.com/grafana/k6/pull/6071) - Added static labels so Prometheus metrics from parallel k6 runs stay distinguishable.
+- [PR #6070](https://github.com/grafana/k6/pull/6070) - Stopped recent console logs getting lost by flushing file logs during runs.
+- [PR #6002](https://github.com/grafana/k6/pull/6002) - Added `single()` to grab the first matching element in k6/html.
+
+### <img src="https://github.com/facebook.png?size=32" width="24" height="24" align="absmiddle"> [facebook/lexical](https://lexical.dev/) (24k★)
+
+- [PR #8539](https://github.com/facebook/lexical/pull/8539) - Fixed collapsible blocks breaking on empty or inline-only content.
+- [PR #8541](https://github.com/facebook/lexical/pull/8541) - Added markdown round-trip tests for bold-italic text.
+
+### <img src="https://github.com/microsoft.png?size=32" width="24" height="24" align="absmiddle"> [microsoft/playwright-python](https://playwright.dev/python/) (15k★)
+
+- [PR #3084](https://github.com/microsoft/playwright-python/pull/3084) - Fixed handlers with keyword-only parameters getting the wrong arguments.
+
+### <img src="https://github.com/google.png?size=32" width="24" height="24" align="absmiddle"> [google/osv-scanner](https://github.com/google/osv-scanner) (11k★)
+
+- [PR #2808](https://github.com/google/osv-scanner/pull/2808) - Removed duplicate vulnerability queries in bulk scans, keeping result order.
+
+### 🦞 [openclaw/gogcli](https://gogcli.sh) (8.5k★)
+
+- [PR #554](https://github.com/openclaw/gogcli/pull/554) - Added read-only Drive reports: tree views, folder summaries and inspection.
+- [PR #555](https://github.com/openclaw/gogcli/pull/555) - Added a safe preview for finding duplicate Google Contacts.
 - [PR #116](https://github.com/openclaw/gogcli/pull/116) - Introduced the original Drive reporting, Drive sync, and contacts dedupe contribution.
 
-### <img src="https://github.com/microsoft.png?size=32" width="24" height="24" align="absmiddle"> [microsoft/playwright-python](https://playwright.dev/python/) (14.7k stars)
+### <img src="https://github.com/Azure.png?size=32" width="24" height="24" align="absmiddle"> [Azure/azure-cli](https://github.com/Azure/azure-cli) (4.6k★)
 
-- [PR #3084](https://github.com/microsoft/playwright-python/pull/3084) - Fixed handler wrapping so keyword-only parameters are not counted as positional handler arguments.
+- [PR #33429](https://github.com/Azure/azure-cli/pull/33429) - Kept `az vm image list` working when the remote alias file is malformed.
 
-### <img src="https://github.com/Azure.png?size=32" width="24" height="24" align="absmiddle"> [Azure/azure-cli](https://github.com/Azure/azure-cli) (4.6k stars)
+### <img src="https://github.com/google.png?size=32" width="24" height="24" align="absmiddle"> [google/go-containerregistry](https://github.com/google/go-containerregistry) (4k★)
 
-- [PR #33429](https://github.com/Azure/azure-cli/pull/33429) - Made VM image listing fall back to bundled aliases when the remote alias document is invalid JSON.
+- [PR #2314](https://github.com/google/go-containerregistry/pull/2314) - Ensured only true loopback hosts get plain-HTTP registry access.
+- [PR #2315](https://github.com/google/go-containerregistry/pull/2315) - Let push-only workflows skip Kubernetes pull secrets.
+- [PR #2316](https://github.com/google/go-containerregistry/pull/2316) - Kept `localhost/...` image references pointing at the local registry.
 
-### <img src="https://github.com/facebook.png?size=32" width="24" height="24" align="absmiddle"> [facebook/lexical](https://lexical.dev/) (23.5k stars)
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="24" height="24" align="absmiddle" alt="Go"> [cel-expr/cel-go](https://github.com/cel-expr/cel-go) (3k★)
 
-- [PR #8541](https://github.com/facebook/lexical/pull/8541) - Added markdown round-trip coverage for bold-italic formatting.
-- [PR #8539](https://github.com/facebook/lexical/pull/8539) - Fixed collapsible content normalization for empty content and inline children.
-
-### <img src="https://github.com/google.png?size=32" width="24" height="24" align="absmiddle"> [google/osv-scanner](https://github.com/google/osv-scanner) (10.5k stars)
-
-- [PR #2808](https://github.com/google/osv-scanner/pull/2808) - Deduplicated equivalent OSV bulk vulnerability queries while preserving scanner result ordering.
-
-### <img src="https://github.com/grafana.png?size=32" width="24" height="24" align="absmiddle"> [grafana/k6](https://github.com/grafana/k6) (30.8k stars)
-
-- [PR #6071](https://github.com/grafana/k6/pull/6071) - Enabled teams to distinguish Prometheus remote-write metrics from multiple k6 processes using configurable static labels.
-- [PR #6070](https://github.com/grafana/k6/pull/6070) - Prevented recent console logs from being lost by periodically flushing buffered file logs during k6 runs.
-- [PR #6002](https://github.com/grafana/k6/pull/6002) - Made HTML scripting more ergonomic by adding a direct way to select the first matching element.
-
-### <img src="https://docusaurus.io/img/docusaurus.svg" width="22" height="22" align="absmiddle"> [facebook/docusaurus](https://docusaurus.io/) (65.2k stars)
-
-- [PR #12054](https://github.com/facebook/docusaurus/pull/12054) - Fixed locale-aware site config URLs for metadata and sitemap generation.
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="24" height="24" align="absmiddle" alt="Go"> [cel-expr/cel-go](https://github.com/cel-expr/cel-go) (3k stars)
-
-- [PR #1340](https://github.com/cel-expr/cel-go/pull/1340) - Helped CEL users serialize dynamic values to JSON through the standard extension library.
-- [PR #1327](https://github.com/cel-expr/cel-go/pull/1327) - Made explicit container aliases more flexible while keeping abbreviation validation strict.
+- [PR #1340](https://github.com/cel-expr/cel-go/pull/1340) - Added a JSON encoder to CEL’s standard extensions.
+- [PR #1327](https://github.com/cel-expr/cel-go/pull/1327) - Allowed container aliases for simple names, with validation still strict.
 
 ### 🛠 Tech Stack
 
