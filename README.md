@@ -16,7 +16,7 @@ Thanks for visiting here. Follow for more open-source and AI work I'm part of.
 ## Current Projects
 
 
-- <img src="assets/codebloom-logo.png" width="18" height="18" alt="Codebloom" align="absmiddle"> [Codebloom](https://github.com/rohan-patnaik/codebloom) : VS Code extension that turns Python, Java and JavaScript files into pastel mind maps with call arrows.
+- <img src="assets/codebloom-logo.png" width="18" height="18" alt="Codebloom" align="absmiddle"> [Codebloom](https://github.com/rohan-patnaik/codebloom) : IDE extension that turns Python, Java and JavaScript files into mind maps with call arrows.
 - 📅 [OpenCalendly](https://opencalendly.com) : Open-source scheduling platform for one-on-one and team bookings with calendar sync.
 - 📄 [ZenPDF](https://thezenpdf.vercel.app) : Clean, open-source PDF workbench with practical tools and transparent usage limits.
 - <img src="assets/gogcli-plus-google-g.png" width="18" height="18" alt="Google G" align="absmiddle"> [gogcli-plus](https://github.com/rohan-patnaik/gogcli-plus) : gogcli extension that adds Drive reporting, local↔Drive sync, and contacts deduplication workflows.
