@@ -15,6 +15,7 @@ Thanks for visiting here. Follow for more open-source and AI work I'm part of.
 
 ## Current Projects
 
+- <img src="assets/codebloom-logo.png" width="18" height="18" alt="Codebloom" align="absmiddle"> [Codebloom](https://github.com/rohan-patnaik/codebloom) : VS Code extension that turns Python, Java and JavaScript files into pastel mind maps with call arrows.
 - 🎙️ [speechy1](https://github.com/rohan-patnaik/speechy1) : Headless Linux dictation with Groq Whisper ASR, Qwen cleanup and private dictionary aliases.
 - 📅 [OpenCalendly](https://opencalendly.com) : Open-source scheduling platform for one-on-one and team bookings with calendar sync.
 - 📄 [ZenPDF](https://thezenpdf.vercel.app) : Clean, open-source PDF workbench with practical tools and transparent usage limits.
