@@ -15,7 +15,6 @@ Thanks for visiting here. Follow for more open-source and AI work I'm part of.
 
 ## Current Projects
 
-- 🎙️ [Inlay for Linux](https://github.com/rohan-patnaik/inlay/tree/linux-headless) : Fully local, headless Omarchy dictation using Inlay’s Parakeet and Qwen pipeline.
 
 - <img src="assets/codebloom-logo.png" width="18" height="18" alt="Codebloom" align="absmiddle"> [Codebloom](https://github.com/rohan-patnaik/codebloom) : VS Code extension that turns Python, Java and JavaScript files into pastel mind maps with call arrows.
 - 📅 [OpenCalendly](https://opencalendly.com) : Open-source scheduling platform for one-on-one and team bookings with calendar sync.
