@@ -17,6 +17,7 @@ Thanks for visiting here. Follow for more open-source and AI work I'm part of.
 
 
 - <img src="assets/codebloom-logo.png" width="18" height="18" alt="Codebloom" align="absmiddle"> [Codebloom](https://github.com/rohan-patnaik/codebloom) : See any codebase bloom into a mind map, with call arrows across files. On VS Code, Open VSX & JetBrains.
+- 🔌 [subpool](https://github.com/rohan-patnaik/subpool) : Your Claude, ChatGPT and Gemini subscriptions as one fast API: a single Rust binary with a built-in dashboard.
 - 📅 [OpenCalendly](https://opencalendly.com) : Open-source Calendly: share a link, take 1:1 or team bookings, synced to your calendar.
 - 📄 [ZenPDF](https://thezenpdf.vercel.app) : Clean, open-source PDF workbench with practical tools and transparent usage limits.
 - <img src="assets/gogcli-plus-google-g.png" width="18" height="18" alt="Google G" align="absmiddle"> [gogcli-plus](https://github.com/rohan-patnaik/gogcli-plus) : Supercharge gogcli with Drive reports, local↔Drive sync and contact deduplication.
@@ -26,14 +27,19 @@ Thanks for visiting here. Follow for more open-source and AI work I'm part of.
 - 🃏 [Solitaire](https://omarchyplugins.com/plugin.html?id=io.github.rohan-patnaik.solitaire) : Five classic solitaire games, offline and ad-free, for Omarchy.
 - ◎ [Orbit](https://omarchyplugins.com/plugin.html?id=io.github.rohan-patnaik.window-switcher) : A better Alt+Tab for Omarchy: macOS icons, Windows 7 stacks or a Windows 11 grid.
 - 🎨 [Chromarchy](https://github.com/rohan-patnaik/Chromarchy) : A local-first Photoshop alternative for Omarchy and Arch Linux, in the works.
+- ⚡ [Anthropic performance take-home](https://github.com/rohan-patnaik/anthropics-takehome-optimized-solution) : An optimized vector kernel for Anthropic's open performance challenge, passing at 1,430 cycles.
 
 ## Popular OSS work
 
-*16 merged PRs across Meta, Google, Microsoft and Grafana projects (169k★ combined).*
+*20+ merged PRs across Meta, Google, Microsoft, Grafana, T3 and Agentic AI Foundation projects (290k★ combined).*
 
-### <img src="https://docusaurus.io/img/docusaurus.svg" width="22" height="22" align="absmiddle"> [facebook/docusaurus](https://docusaurus.io/) (66k★)
+### <img src="https://docusaurus.io/img/docusaurus.svg" width="22" height="22" align="absmiddle"> [facebook/docusaurus](https://docusaurus.io/) (67k★)
 
 - [PR #12054](https://github.com/facebook/docusaurus/pull/12054) - Fixed localized sites publishing wrong URLs in metadata and sitemaps.
+
+### <img src="https://github.com/aaif-goose.png?size=32" width="24" height="24" align="absmiddle"> [aaif-goose/goose](https://github.com/aaif-goose/goose) (56k★)
+
+- [PR #12516](https://github.com/aaif-goose/goose/pull/12516) - Kept session context alive across the agent's reply lifecycle, including ACP delegation and resumes.
 
 ### <img src="https://github.com/grafana.png?size=32" width="24" height="24" align="absmiddle"> [grafana/k6](https://github.com/grafana/k6) (32k★)
 
@@ -41,10 +47,23 @@ Thanks for visiting here. Follow for more open-source and AI work I'm part of.
 - [PR #6070](https://github.com/grafana/k6/pull/6070) - Stopped recent console logs getting lost by flushing file logs during runs.
 - [PR #6002](https://github.com/grafana/k6/pull/6002) - Added `single()` to grab the first matching element in k6/html.
 
+### <img src="https://github.com/pingdotgg.png?size=32" width="24" height="24" align="absmiddle"> [pingdotgg/t3code](https://github.com/pingdotgg/t3code) (31k★)
+
+- [PR #19923](https://github.com/pingdotgg/t3code/pull/19923) - Stopped large image attachments stalling the chat timeline by decoding them asynchronously.
+- [PR #12768](https://github.com/pingdotgg/t3code/pull/12768) - Made desktop builds report one consistent version across the client, server and package.
+
 ### <img src="https://github.com/facebook.png?size=32" width="24" height="24" align="absmiddle"> [facebook/lexical](https://lexical.dev/) (24k★)
 
 - [PR #8539](https://github.com/facebook/lexical/pull/8539) - Fixed collapsible blocks breaking on empty or inline-only content.
 - [PR #8541](https://github.com/facebook/lexical/pull/8541) - Added markdown round-trip tests for bold-italic text.
+
+### <img src="https://github.com/microsoft.png?size=32" width="24" height="24" align="absmiddle"> [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (22k★)
+
+- [PR #32846](https://github.com/microsoft/onnxruntime/pull/32846) - Enabled int8 and uint32 support in the CPU `Where` operator.
+
+### <img src="https://github.com/Unstructured-IO.png?size=32" width="24" height="24" align="absmiddle"> [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) (16k★)
+
+- [PR #4504](https://github.com/Unstructured-IO/unstructured/pull/4504) - Kept element IDs and source metadata intact when reloading Unstructured's own JSON output.
 
 ### <img src="https://github.com/microsoft.png?size=32" width="24" height="24" align="absmiddle"> [microsoft/playwright-python](https://playwright.dev/python/) (15k★)
 
