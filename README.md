@@ -20,7 +20,7 @@ Thanks for visiting here. Follow for more open-source and AI work I'm part of.
 | Company | Merged PRs | Projects |
 |:--|:--:|:--|
 | <img src="https://github.com/google.png?size=40" width="20" height="20" align="absmiddle"> **Google** | 6 | [go-containerregistry](https://github.com/google/go-containerregistry), [cel-go](https://github.com/cel-expr/cel-go), [osv-scanner](https://github.com/google/osv-scanner) |
-| <img src="https://github.com/facebook.png?size=40" width="20" height="20" align="absmiddle"> **Meta** | 3 | [Lexical](https://github.com/facebook/lexical), [Docusaurus](https://github.com/facebook/docusaurus) |
+| <img src="https://github.com/facebook.png?size=40" width="20" height="20" align="absmiddle"> **Meta** | 6 | [Lexical](https://github.com/facebook/lexical), [BoTorch](https://github.com/meta-pytorch/botorch), [Docusaurus](https://github.com/facebook/docusaurus), [TorchFT](https://github.com/meta-pytorch/torchft) |
 | <img src="https://github.com/microsoft.png?size=40" width="20" height="20" align="absmiddle"> **Microsoft** | 3 | [ONNX Runtime](https://github.com/microsoft/onnxruntime), [Playwright for Python](https://github.com/microsoft/playwright-python), [Azure CLI](https://github.com/Azure/azure-cli) |
 | <img src="https://github.com/grafana.png?size=40" width="20" height="20" align="absmiddle"> **Grafana Labs** | 3 | [k6](https://github.com/grafana/k6) |
 | <img src="https://github.com/pingdotgg.png?size=40" width="20" height="20" align="absmiddle"> **T3** | 2 | [T3 Code](https://github.com/pingdotgg/t3code) |
@@ -55,9 +55,18 @@ Thanks for visiting here. Follow for more open-source and AI work I'm part of.
 - [PR #8539](https://github.com/facebook/lexical/pull/8539) - Fixed collapsible blocks breaking on empty or inline-only content.
 - [PR #8541](https://github.com/facebook/lexical/pull/8541) - Added markdown round-trip tests for bold-italic text.
 
+#### <img src="https://github.com/meta-pytorch.png?size=32" width="24" height="24" align="absmiddle"> [meta-pytorch/botorch](https://github.com/meta-pytorch/botorch) (3.6k★)
+
+- [PR #3370](https://github.com/meta-pytorch/botorch/pull/3370) - Fixed sampling from batched truncated normal distributions, which used to reject batched constraints.
+- [PR #3372](https://github.com/meta-pytorch/botorch/pull/3372) - Let nonlinear-constrained optimization start from infeasible points, since SLSQP can repair them.
+
 #### <img src="https://docusaurus.io/img/docusaurus.svg" width="22" height="22" align="absmiddle"> [facebook/docusaurus](https://docusaurus.io/) (67k★)
 
 - [PR #12054](https://github.com/facebook/docusaurus/pull/12054) - Fixed localized sites publishing wrong URLs in metadata and sitemaps.
+
+#### <img src="https://github.com/meta-pytorch.png?size=32" width="24" height="24" align="absmiddle"> [meta-pytorch/torchft](https://github.com/meta-pytorch/torchft) (552★)
+
+- [PR #356](https://github.com/meta-pytorch/torchft/pull/356) - Made checkpoint transfers honour the transport's configured timeout by default.
 
 ### Microsoft
 
