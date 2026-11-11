@@ -5,9 +5,9 @@ I'm a ML engineer from India, and Python/Go are my languages of choice.<br>
 I'm a big fan of ML projects and always up for collaborating on cool ideas.
 </blockquote>
 
-[Portfolio](https://rohan-patnaik.github.io)&nbsp;&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/rohan-patnaik-88929b159)
+[Portfolio](https://rpat.dev)&nbsp;&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/rohan-patnaik-88929b159)
 
-Connect with me -> [here!](https://rohan-patnaik.github.io/#contact)
+Connect with me -> [here!](https://rpat.dev/#contact)
 
 Thanks for visiting here. Follow for more open-source and AI work I'm part of.
 
